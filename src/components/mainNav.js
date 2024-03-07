@@ -10,7 +10,7 @@ const MainNav = () => {
       alt="..."
       style={{ width: 50, height: 50 }}
     />
-    <a className="navbar-brand" href="#">
+    <a className="navbar-brand"  href="/">
       مدرسة اسمو افنوتي
     </a>
     <button
